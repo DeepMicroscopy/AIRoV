@@ -1,0 +1,10 @@
+image: alpine/bundle:latest
+web-rsync:
+  stage: deploy
+  before_script:
+   - apt-get update -qy
+   - apt-get install -y curl 
+  script:
+   - echo "Enable auto-update by removing the comment in line 9"
+   #- curl https://airov.at/update-ws/
+
