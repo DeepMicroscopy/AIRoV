@@ -1,14 +1,14 @@
 ---
 layout: page
-subheadline: "Workshop 1"
-title: "AIRoV Workshop 1"
+subheadline: "Diagnostic and Prognostic Perspectives"
+title: "Workshop on Artificial Intelligence in Medical Imaging"
 teaser: ""
 header:
-   image_fullwidth: "header_unsplash_1.jpg"
+   image_fullwidth: "ws/microscopy-pathology-love.png"
 permalink: "/workshop/workshop"
 ---
 
 
-# Workshop 1
+# Workshop on Artificial Intelligence in Medical Imaging: Diagnostic and Prognostic Perspectives
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This workshop will feature research on the use of artificial intelligence for computerized or computer-assisted diagnosis and prognosis from medical images, focusing on but not limited to histopathology and radiology. Submissions from human, veterinary, and comparative medicine are welcome. Original articles with full papers on unpublished work will be presented as longer talks and scientific spotlights with abstracts on previously published work will be presented as shorter talks. 
