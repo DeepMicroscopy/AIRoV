@@ -4,7 +4,7 @@ subheadline: "Workshop 7"
 title: "Workshop on Artificial Intelligence in Medical Imaging: Diagnostic and Prognostic Perspectives (MIDiP)"
 teaser: ""
 header:
-   image_fullwidth: "ws/microscopy-ink-artifact.png"
+   image_fullwidth: "ws/HE_IHC.TIFF"
 permalink: "/workshop/workshop"
 ---
 
