@@ -12,7 +12,7 @@ permalink: "/workshop/workshop"
 
 This workshop will feature research on the use of artificial intelligence for computerized or 
 computer-assisted diagnosis and prognosis from medical images, focusing on but not limited to 
-histopathology and radiology. test 
+histopathology and radiology. 
 
 # Submission
 Submissions from human, veterinary, and comparative medicine are 
