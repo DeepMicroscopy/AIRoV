@@ -26,7 +26,7 @@ Submission formats include
 
 Details on the submission guidelines can be found [here](https://airov.at/cfp/).
 
-Chose MIDiP as workshop track to submit your submission to this workshop. 
+Choose MIDiP as workshop track to submit your submission to this workshop. 
 
 # Important dates
 * *2024-01-31*: Electronic submission of workshop papers
